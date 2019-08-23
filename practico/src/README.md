@@ -5,6 +5,9 @@
 - Lucía Benitez
 - Johanna Frau
 
+## Archivo a entregar
+
+- Practico_Supervisado.ipynb
 
 ## Requisitos de Instalación
 
